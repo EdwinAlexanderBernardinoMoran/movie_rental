@@ -1,0 +1,11 @@
+# Instalar un proyecto de laravel.
+
+# Instalar JWT De la documentacion oficial de JWT
+
+# Configurar JWT en la carpeta config en el archivo app.php
+
+# Luego ejecutar el comando (php artisan vendor:publish). Luego seleccionar la opcion numero 10, esto crea un nuevo archivo en la carpeta 				config llamado (jwt.php)
+
+# Luego generar una clave secreta con el comando (php artisan jwt:secret): Esta clave se utilizara en el archivo (jwt.php) para firmar nuestros token, se utilizara para algoritmos simetricos, como HMAC, en criptgrafia es un tipo especifico de codigo de Autenticacion de mensajes ya que incluye una funcion has criptogradica y una clave criptografica secreta, ya que.
+
+# 
